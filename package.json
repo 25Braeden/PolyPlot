@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.14.0",
+    "typescript": "^5.6.3"
+  }
+}
